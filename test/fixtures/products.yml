@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  uuid: MyString
+  picture: MyString
+  url: MyString
+  available: false
+
+two:
+  uuid: MyString
+  picture: MyString
+  url: MyString
+  available: false
